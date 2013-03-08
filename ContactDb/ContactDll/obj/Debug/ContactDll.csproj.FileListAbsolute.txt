@@ -1,0 +1,21 @@
+D:\JRH\ContactDb\ContactDll\bin\Debug\ContactDll.dll
+D:\JRH\ContactDb\ContactDll\bin\Debug\ContactDll.pdb
+D:\JRH\ContactDb\ContactDll\obj\Debug\ResolveAssemblyReference.cache
+D:\JRH\ContactDb\ContactDll\obj\Debug\ContactDll.dll
+D:\JRH\ContactDb\ContactDll\obj\Debug\ContactDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ResolveAssemblyReference.cache
+D:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.pdb
+F:\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.dll
+F:\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.pdb
+F:\ITSE 1430\ContactDb\ContactDll\obj\Debug\ResolveAssemblyReference.cache
+F:\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.dll
+F:\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.dll.config
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\bin\Debug\ContactDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.csprojResolveAssemblyReference.cache
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactDll\obj\Debug\ContactDll.pdb

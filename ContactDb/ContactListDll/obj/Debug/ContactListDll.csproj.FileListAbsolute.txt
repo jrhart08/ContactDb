@@ -1,0 +1,32 @@
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ResolveAssemblyReference.cache
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.pdb
+D:\JRH\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll
+D:\JRH\ContactDb\ContactListDll\bin\Debug\ContactListDll.pdb
+D:\JRH\ContactDb\ContactListDll\bin\Debug\ContactDll.dll
+D:\JRH\ContactDb\ContactListDll\bin\Debug\ContactDll.pdb
+D:\JRH\ContactDb\ContactListDll\obj\Debug\ResolveAssemblyReference.cache
+D:\JRH\ContactDb\ContactListDll\obj\Debug\ContactListDll.dll
+D:\JRH\ContactDb\ContactListDll\obj\Debug\ContactListDll.pdb
+F:\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll
+F:\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.pdb
+F:\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.dll
+F:\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.pdb
+F:\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ResolveAssemblyReference.cache
+F:\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.dll
+F:\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll.config
+F:\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll.config
+D:\JRH\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll.config
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll.config
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactListDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\bin\Debug\ContactDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.csprojResolveAssemblyReference.cache
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactListDll\obj\Debug\ContactListDll.pdb

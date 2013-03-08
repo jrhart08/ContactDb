@@ -1,0 +1,47 @@
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactGUI.exe
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactGUI.pdb
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Form1.resources
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Properties.Resources.resources
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.exe
+D:\JRH\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.pdb
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactDll.dll
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactListDll.dll
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactDll.pdb
+D:\JRH\ContactDb\ContactGUI\bin\Debug\ContactListDll.pdb
+D:\JRh\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DetailedForm.resources
+D:\JRh\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DeleteForm.resources
+D:\JRh\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.UpdateForm.resources
+I:\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.exe
+I:\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.exe
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactGUI.exe
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactGUI.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactListDll.dll
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactListDll.pdb
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DeleteForm.resources
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DetailedForm.resources
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Form1.resources
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Properties.Resources.resources
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.exe
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactGUI.exe
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactGUI.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactListDll.dll
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\bin\Debug\ContactListDll.pdb
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.csprojResolveAssemblyReference.cache
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DeleteForm.resources
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.DetailedForm.resources
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Form1.resources
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.Properties.Resources.resources
+F:\Media\Documents\ITSE 1430\ContactDb\ContactGUI\obj\x86\Debug\ContactGUI.csproj.GenerateResource.Cache
